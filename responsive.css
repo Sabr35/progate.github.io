@@ -1,0 +1,26 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+    .about-me p{
+        padding-left: 10em;
+        padding-right: 10em;
+    }
+}
+
+@media all and (max-width: 670px) {
+    .portofolio h1{
+        font-size: 50px;
+    }
+    
+    .portofolio h2{
+        font-size: 20px;
+    }
+
+    .lesson{
+        width: 100%;
+    }
+
+    .about-me p{
+        padding-left: 5em;
+        padding-right: 5em;
+    }
+}
